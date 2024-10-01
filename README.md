@@ -1,3 +1,2 @@
 # Assignment_pw
-![newplot(1)](newplot (1).png)
-![newplot](newplot.png)
+![newplot(1)](https://github.com/hrishabh-dev/Assignment_pw/blob/b0088d9702769721acc3402476a107a5fbba6467/newplot%20(1).png)
